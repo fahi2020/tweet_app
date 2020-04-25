@@ -1,12 +1,13 @@
 # TweetApp_fuwa_Ru
 
-"TweetApp_fuwa_Ru" is a Tweets with Ruby on rails.
+"TweetApp_fuwa_Ru" is a place of interaction for people connected by hobbies and interests
+
 
 # DEMO
 
-You can tweet how to making cute physics simulations (looks cute tweets).
+Share it with your photos and show it to people all over the world.
 https://fahi2020.github.io/tweet_app/
-you can tweet and conect all over the world TweetApp's user anytime.
+
 Shere with text and picture.
 
 # Features

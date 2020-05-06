@@ -6,14 +6,15 @@
 
     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   </head>
 
 <body>
 <header>
       <div class="header-logo">
-      <%if @current_user%>
+      <%if @current_user %>
         <%= link_to("TweetApp","/posts/index")%>
-        <%else%>
+        <% else %>
         <%= link_to("TweetApp","/")%>
         <%end%>
         </div>
@@ -53,7 +54,7 @@
         <%=flash[:notice] %>
       </div>
     <% end %>
-
     <%= yield %>
+
   </body>
 </html>

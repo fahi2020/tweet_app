@@ -1,24 +1,41 @@
-# README
+# TweetApp_fuwa_Ru
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+"TweetApp_fuwa_Ru" is a place of interaction for people connected by hobbies and interests
 
-Things you may want to cover:
 
-* Ruby version
+# DEMO
 
-* System dependencies
+Share it with your photos and show it to people all over the world.
+https://fahi2020.github.io/tweet_app/
 
-* Configuration
+Shere with text and picture.
 
-* Database creation
+# Features
 
-* Database initialization
+TweetApp for
 
-* How to run the test suite
+# Requirement
 
-* Services (job queues, cache servers, search engines, etc.)
+* Ruby 2.6.3
+* Ruby on rails 6.0.2.2
 
-* Deployment instructions
+# Installation
 
-* ...
+
+# Usage
+
+
+# Note
+
+I don't test environments under Windows 
+
+# Author
+
+* fuwa
+* fuwafuwa
+* Twitter :none
+
+# License
+
+
+Thank you!
